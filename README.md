@@ -7,4 +7,4 @@ Tell this model the type of clothes for which it needs to generate images and it
 
 ### Accuracy: 86%.
 
-##### Link to download a classifier's saved weights: https://drive.google.com/drive/folders/1A2igDFZPEVLX2RnNSncwGTm8Qvb6BRgq?usp=sharing.
+##### Link to download the saved weights of the VAE and the Classifier: https://drive.google.com/drive/folders/1ee41XL5O5TT1RdUbWoudjWXf-G1vF0JO?usp=sharing
